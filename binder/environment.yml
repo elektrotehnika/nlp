@@ -1,0 +1,6 @@
+dependencies:
+  - numpy
+  - gensim
+  - datasets
+  - matplotlib
+  - scikit-learn
