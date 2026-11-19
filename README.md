@@ -6,9 +6,7 @@
 
 ## Обавештења
 
-Предлози и одбране студентских пројеката у јануарском и фебруарском испитном року школске 2025/2026. године биће одржане у четвртак, 12. марта 2026. године од 16.30 у рачунарској учионици Д-66.
-
-Настава из предмета Обрада природног језика почела је 8. децембра 2025. године.
+Настава из предмета Обрада природних језика почела је 8. децембра 2025. године.
 
 ## Настава
 
@@ -96,11 +94,11 @@
   * [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp)
   * [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
 
+* [DeepLearning.AI](https://www.deeplearning.ai) - [Retrieval Augmented Generation (RAG)](https://www.coursera.org/learn/retrieval-augmented-generation-rag) | [Coursera](https://www.coursera.org) ([Lecture notes](https://community.deeplearning.ai/t/rag-lecture-notes/852809))
+
 <!--На енглеском:
 * [Huawei ICT Academy: Fundamentals of Deep Learning](https://uniportal.huawei.com/accounts/register.do?method=toRegister) - уписни код: FMjO4c - 10 поена
 * званична сертификација [HCIP-AI](./Huawei/010102001901808059131409.pdf) - 25 поена
-
-[Резултати](https://docs.google.com/spreadsheets/d/1RyvG7IVa4uybtXSHzngpcbnb8LEaEkFF4xU8CdShJMo) Huawei ICT Academy: Fundamentals of Deep Learning курса.
 
 Студенти који су заинтересовани за добијање званичног [HCIP-AI](./Huawei/010102001901808059131409.pdf) сертификата, неопходно је да се до 14. јуна у 23:59 пријаве преко [формулара](https://docs.google.com/forms/d/e/1FAIpQLSe0yFvtZOzUZyyrwSO5gUh-5jG9yvlcUDIH1lHiOg3KT0XfNQ/viewform?usp=sf_link). Није могуће полагати за HCIP-AI уколико већ не поседујете положен HCIA-AI, па ће за оне који немају сертификат бити затражени ваучери за полагање HCIA-AI испита. Уколико неко не жели да полаже за HCIA-AI, нека се јави на колоквијуму.-->
 
@@ -149,6 +147,4 @@
 
 <!--## Резултати колоквијума и испита
 
-[Резултати](https://docs.google.com/spreadsheets/d/1VswTNw6_4dwwYHJ4HKwy48Sr9dvXGpPPAtdcZj2Kg9w) колоквијума из Основа дубоког учења у школској 2023/2024. години.
-
-[Резултати](https://docs.google.com/spreadsheets/d/1_AmBhgif2AVoadrnCksmKhYxyTy0ZBFe8XNZC_B8v-U) колоквијума из Основа дубоког учења у школској 2021/2022. години.-->
+[Резултати](https://docs.google.com/spreadsheets/d/1VswTNw6_4dwwYHJ4HKwy48Sr9dvXGpPPAtdcZj2Kg9w) колоквијума из Основа дубоког учења у школској 2023/2024. години.-->
